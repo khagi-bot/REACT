@@ -17,3 +17,6 @@ it claims it , so it's probabilistically enforeced , meaning that react can't ma
 - So, it’s not a pure deductive agent. It’s a **probabilistic stabilizer**.
 
 React is the **forcefield** that keeps your logic orbiting the theory — even if you drift.
+
+
+did this change commit or not ? 
